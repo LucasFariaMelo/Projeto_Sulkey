@@ -9,8 +9,8 @@ projeto em desenvolvimento
 
 lucas melo desenvolvedor web: <lucasfariamelo307@gmail.com>
 
-1- Interface: O projeto foi criado utilizando django framework, para isso será necessária que dentro do seu Visual Studio code siga os seguintes passos:
-1.1: na pasta ExtrairLeads, instale o django.
+##1- Interface: O projeto foi criado utilizando django framework, para isso será necessária que dentro do seu Visual Studio code siga os seguintes passos:
+1.1: na pasta "", instale o django.
 Captura de tela 2023-12-21 195024.png
 1.2: em seguida instale o conector mysql que dará acesso ao Banco de Dados: Pymysql e mysql-connector-python
 Captura de tela 2023-12-21 195326.png
@@ -27,7 +27,6 @@ Captura de tela 2023-12-21 200300.png
 1.7: Por fim digite python manage.py runserver e clique no link que te levará para o projeto:
 Captura de tela 2023-12-21 200501.png
 
-2-O site: A extração de leads funciona de maneira simples, o usuário digite suas informações de contato
-E logo após clicar em salvar leads, somos enviados para uma outra página aonde são guardadas as informações digitadas previamente:
+##2-O site: A Página inicial do site da Sulkey, conta com uma interface simples e prática de forma a mostrar todos os serviços e funcionalidades da empresa
 Captura de tela 2023-12-21 200728.png
 
