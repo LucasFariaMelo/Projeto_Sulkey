@@ -38,6 +38,11 @@ Captura de tela 2023-12-21 200300.png
 <img src="Models/img06.png">
 
 
-## 2-O site: A Página inicial do site da Sulkey, conta com uma interface simples e prática de forma a mostrar todos os serviços e funcionalidades da empresa
-Captura de tela 2023-12-21 200728.png
+## 2-O site: A Página inicial do site da Sulkey, conta com uma interface simples e prática de forma a mostrar todos os serviços e funcionalidades da empresa.
+
+<img src="Models/img07.png">
+
+<img src="Models/img08.png">
+
+<img src="Models/img09.png">
 
