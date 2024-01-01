@@ -82,9 +82,9 @@ DATABASES = {
         'ENGINE': 'django.db.backends.mysql',
         'NAME': 'sulkey',
         'USER': 'root', 
-        'PASSWORD': '',
+        'PASSWORD': '1',
         'HOST': 'localhost',  
-        'PORT': '3306', 
+        'PORT': '8011', 
     }
 }
 
