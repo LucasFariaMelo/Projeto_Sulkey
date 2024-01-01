@@ -14,7 +14,8 @@ lucas melo desenvolvedor web: <lucasfariamelo307@gmail.com>
 <img src="Models/img02.png">
 
 1.2: em seguida instale o conector mysql que dará acesso ao Banco de Dados: Pymysql e mysql-connector-python
-Captura de tela 2023-12-21 195326.png
+
+<img src="Models/img03.png">
 
 1.3: após concluir estas etapas certifique-se que o xampp está ligado:
 
@@ -22,11 +23,11 @@ Captura de tela 2023-12-21 195326.png
 
 1.4: adicione as seguintes informações na parte superior do arquivo settings.py, localizado na pasta setup do proto:
 
-<img src="Models/img01.png">
+<img src="Models/img04.png">
 
 1.5: agora crie o banco de dados dentro do MysqlWorkbench:
 
-<img src="Models/img01.png">
+<img src="Models/img05.png">
 
 1.6: digite o nome do banco: "" e clique em aplicar!
 
