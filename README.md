@@ -11,7 +11,9 @@ lucas melo desenvolvedor web: <lucasfariamelo307@gmail.com>
 
 ## 1- Interface: O projeto foi criado utilizando django framework, para isso será necessária que dentro do seu Visual Studio code siga os seguintes passos:
 1.1: na pasta "Projeto_Sulkey", instale o django.
-Captura de tela 2023-12-21 195024.png
+
+<img src="Models/img02.png">
+
 1.2: em seguida instale o conector mysql que dará acesso ao Banco de Dados: Pymysql e mysql-connector-python
 Captura de tela 2023-12-21 195326.png
 
