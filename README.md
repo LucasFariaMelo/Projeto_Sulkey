@@ -15,7 +15,7 @@ Captura de tela 2023-12-21 195024.png
 1.2: em seguida instale o conector mysql que dará acesso ao Banco de Dados: Pymysql e mysql-connector-python
 Captura de tela 2023-12-21 195326.png
 1.3: após concluir estas etapas certifique-se que o xampp está ligado:
-<img src="../Projeto_Sulkey/Models/img01.png" alt="screen_shot">
+<img src="Projeto_Sulkey/Models/img01.png">
 
 1.4: agora crie o banco de dados dentro do MysqlWorkbench:
 Captura de tela 2023-12-21 195627.png
