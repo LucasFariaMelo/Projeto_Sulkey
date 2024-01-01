@@ -9,7 +9,7 @@ projeto em desenvolvimento
 lucas melo desenvolvedor web: <lucasfariamelo307@gmail.com>
 
 ## 1- Interface: O projeto foi criado utilizando django framework, para isso será necessária que dentro do seu Visual Studio code siga os seguintes passos:
-1.1: na pasta "Projeto_Sulkey", instale o django.
+1.1: na pasta "Sulkey", instale o django.
 
 <img src="Models/img02.png">
 
@@ -29,11 +29,9 @@ lucas melo desenvolvedor web: <lucasfariamelo307@gmail.com>
 
 <img src="Models/img05.png">
 
-1.6: digite o nome do banco: "" e clique em aplicar!
+1.6: digite o nome do banco: "sulkey" e clique em aplicar!
 
-<img src="Models/img01.png">
-
-1.7: agora no Visual Studio code ainda na pasta "" faça as migrações para o banco de dados:
+1.7: agora no Visual Studio code ainda pasta "Sulkey" faça as migrações para o banco de dados:
 Captura de tela 2023-12-21 200300.png
 1.8: Por fim digite python manage.py runserver e clique no link que te levará para o projeto:
 
